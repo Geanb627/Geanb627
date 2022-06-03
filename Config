@@ -106,9 +106,9 @@
     {
       "Name": "CLARO [03]",
       "FLAG": "claro",
-      "Payload": "GET wss://www.boom4u.com.br/ HTTP/1.1[crlf]Host: premi.infoproxplusbr.pt[crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "www.boom4u.com.br",
-      "TlsIP": "172.67.201.105",
+      "Payload": "GET wss://Atendimento.descomplica.com.br/ HTTP/1.1[crlf]Host: premi.infoproxplusbr.pt[crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "wss://Atendimento.descomplica.com.br",
+      "TlsIP": "wss://Atendimento.descomplica.com.br",
       "ProxyIP": "",
       "ProxyPort": "443",
       "Info": "Tlsws"
