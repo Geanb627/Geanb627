@@ -1,6 +1,6 @@
 {
   "Version": "1.0.6",
-  "ReleaseNotes": "atualização TIM SSL IP+BUGHOST adicionada,CLARO RAPIDA TESTE",
+  "ReleaseNotes": "atualização TIM SSL IP+BUGHOST adicionada,CLARO RAPIDA TESTE 3",
   "UrlUpdate": "https://raw.githubusercontent.com/Geanb627/Geanb627/main/Config",
   "Sms": "https://raw.githubusercontent.com/Geanb627/Geanb627/main/Sms",
   "EmailFeedback": "gean123cristhian@gmail.com",
@@ -87,8 +87,8 @@
       "Name": "CLARO [01]",
       "FLAG": "claro",
       "Payload": "GET wss://Atendimento.descomplica.com.br HTTP/1.1[crlf]Host: premi.infoproxplusbr.pt[app_host][crlf]Upgrade: covid[crlf][crlf]",
-      "SNI": "Atendimento.descomplica.com.br",
-      "TlsIP": "Atendimento.descomplica.com.br",
+      "SNI": "",
+      "TlsIP": "No.descomplica.com.br",
       "ProxyIP": "",
       "ProxyPort": "",
       "Info": "Tlsws"
@@ -96,19 +96,19 @@
     {
       "Name": "CLARO [02]",
       "FLAG": "claro",
-      "Payload": "GET wss://Atendimento.descomplica.com.br HTTP/1.1[crlf]Host: premi.infoproxplusbr.pt[app_host][crlf]Upgrade: covid[crlf][crlf]",
-      "SNI": "No.descomplica.com.br",
-      "TlsIP": "Atendimento.descomplica.com.br",
-      "ProxyIP": "",
-      "ProxyPort": "",
+      "Payload": "GET wss://Atendimento.descomplica.com.br/ HTTP/1.1[crlf]Host: premi.infoproxplusbr.pt[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "No.descomplica.com.br",
+      "ProxyPort": "443",
       "Info": "Tlsws"
    },
     {
       "Name": "CLARO [03]",
       "FLAG": "claro",
       "Payload": "GET wss://Atendimento.descomplica.com.br/ HTTP/1.1[crlf]Host: premi.infoproxplusbr.pt[crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "wss://Atendimento.descomplica.com.br",
-      "TlsIP": "wss://Atendimento.descomplica.com.br",
+      "SNI": "No.descomplica.com.br",
+      "TlsIP": "",
       "ProxyIP": "",
       "ProxyPort": "443",
       "Info": "Tlsws"
