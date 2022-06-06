@@ -1,5 +1,5 @@
 {
-  "Version": "1.1.7",
+  "Version": "1.1.8",
   "ReleaseNotes": "atualização TIM SSL IP+BUGHOST adicionada,CLARO RAPIDA TESTE 6",
   "UrlUpdate": "https://raw.githubusercontent.com/Geanb627/Geanb627/main/Config",
   "Sms": "https://raw.githubusercontent.com/Geanb627/Geanb627/main/Sms",
@@ -17,7 +17,7 @@
       "ServerIP": "premi.infoproxplusbr.pt",
       "CheckUser": "http://191.252.120.30:8486/checkUser",
       "ServerPort": "22",
-      "SSLPort": "443",
+      "SSLPort": "636",
       "USER": "",
       "PASS": ""
     }
@@ -60,7 +60,7 @@
       "SNI": "money-staging.infinitepay.io",
       "TlsIP": "104.18.7.80",
       "ProxyIP": "",
-      "ProxyPort": "80",
+      "ProxyPort": "636",
       "Info": "Tlsws"
    },
     {
