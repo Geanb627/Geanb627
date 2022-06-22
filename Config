@@ -1,5 +1,5 @@
 {
-  "Version": "1.2.6",
+  "Version": "1.2.8",
   "ReleaseNotes": "atualização SSL IP+BUGHOST adicionada,CLARO RAPIDA TESTE 8",
   "UrlUpdate": "https://raw.githubusercontent.com/Geanb627/Geanb627/main/Config",
   "Sms": "https://raw.githubusercontent.com/Geanb627/Geanb627/main/Sms",
@@ -58,7 +58,7 @@
       "FLAG": "vivo",
       "Payload": "GET wss://money-staging.infinitepay.io/ HTTP/1.1[crlf]Host: premi.infoproxplusbr.pt[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "money-staging.infinitepay.io",
-      "TlsIP": "104.18.7.80",
+      "TlsIP": "172.64.130.2",
       "ProxyIP": "",
       "ProxyPort": "443",
       "Info": "Tlsws"
@@ -68,7 +68,7 @@
       "FLAG": "vivo",
       "Payload": "GET wss://carrinho-pos-familia.vivo.com.br// HTTP/1.1[crlf]Host: premi.infoproxplusbr.pt[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "carrinho-pos-familia.vivo.com.br",
-      "TlsIP": "104.18.6.80",
+      "TlsIP": "172.64.131.2",
       "ProxyIP": "",
       "ProxyPort": "443",
       "Info": "Tlsws"
@@ -78,7 +78,7 @@
       "FLAG": "vivo",
       "Payload": "GET wss://portaljud.vivo.com.br// HTTP/1.1[crlf]Host: premi.infoproxplusbr.pt[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "portaljud.vivo.com.br",
-      "TlsIP": "104.18.7.80",
+      "TlsIP": "104.24.11.16",
       "ProxyIP": "",
       "ProxyPort": "443",
       "Info": "Tlsws"
