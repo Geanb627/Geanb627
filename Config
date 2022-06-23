@@ -1,5 +1,5 @@
 {
-  "Version": "1.3.1",
+  "Version": "1.3.2",
   "ReleaseNotes": "atualização SSL IP+BUGHOST adicionada,CLARO RAPIDA TESTE 8",
   "UrlUpdate": "https://raw.githubusercontent.com/Geanb627/Geanb627/main/Config",
   "Sms": "https://raw.githubusercontent.com/Geanb627/Geanb627/main/Sms",
@@ -21,17 +21,6 @@
       "USER": "",
       "PASS": ""
     },
-    {
-      "Name": "SERVIDOR BR normal",
-      "TYPE": "premium",
-      "FLAG": "br.png",
-      "ServerIP": "tes.netsshonline.pt",
-      "CheckUser": "http://51.222.112.187:8486/checkUser",
-      "ServerPort": "22",
-      "SSLPort": "443",
-      "USER": "",
-      "PASS": ""
-    }
   ],
 "Networks": [
    {
