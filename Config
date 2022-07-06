@@ -1,6 +1,6 @@
 {
-  "Version": "1.5.7",
-  "ReleaseNotes": "atualização SSL IP+VIVO TESTE 3",
+  "Version": "1.5.8",
+  "ReleaseNotes": "atualização SSL IP+VIVO TESTE 4",
   "UrlUpdate": "https://raw.githubusercontent.com/Geanb627/Geanb627/main/Config",
   "Sms": "https://raw.githubusercontent.com/Geanb627/Geanb627/main/Sms",
   "EmailFeedback": "gean123cristhian@gmail.com",
@@ -8,7 +8,7 @@
   "UrlTermos": "https://paste.anasor.com/paste.php?raw&id=11364",
   "CheckUser": "true",
   "CheckUser": "true",
-  "UdpPort": "7300",
+  "UdpPort": "7300;7400",
   "Servers": [
     {
       "Name": "🇧🇷SERVIDOR JOGOS",
