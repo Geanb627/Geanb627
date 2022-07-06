@@ -1,5 +1,5 @@
 {
-  "Version": "1.6.0",
+  "Version": "1.6.1",
   "ReleaseNotes": "atualização SSL IP+VIVO TESTE 6",
   "UrlUpdate": "https://raw.githubusercontent.com/Geanb627/Geanb627/main/Config",
   "Sms": "https://raw.githubusercontent.com/Geanb627/Geanb627/main/Sms",
@@ -99,7 +99,7 @@
       "Name": "VIVO atualizado funcional",
       "FLAG": "vivo",
       "Payload": "GET / HTTP/1.1[crlf]Host: [crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "",
+      "SNI": "172.67.165.43",
       "TlsIP": "172.67.165.43",
       "ProxyIP": "",
       "ProxyPort": "443",
