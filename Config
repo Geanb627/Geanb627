@@ -1,6 +1,6 @@
 {
-  "Version": "1.5.2",
-  "ReleaseNotes": "atualização SSL IP+VIVO TESTE 2",
+  "Version": "1.5.5",
+  "ReleaseNotes": "atualização SSL IP+VIVO TESTE 1.0",
   "UrlUpdate": "https://raw.githubusercontent.com/Geanb627/Geanb627/main/Config",
   "Sms": "https://raw.githubusercontent.com/Geanb627/Geanb627/main/Sms",
   "EmailFeedback": "gean123cristhian@gmail.com",
@@ -76,11 +76,11 @@
       "Info": "Tlsws"
    },
     {
-      "Name": "VIVO teste",
+      "Name": "VIVO atualizado",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: d1t1xq1lik4fbp.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "live.vivo.com.br",
-      "TlsIP": "live.vivo.com.br",
+      "Payload": "GET / HTTP/1.1[crlf]Host: [crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "172.67.165.43",
       "ProxyIP": "",
       "ProxyPort": "443",
       "Info": "Tlsws"
