@@ -8,7 +8,7 @@
   "UrlTermos": "https://paste.anasor.com/paste.php?raw&id=11364",
   "CheckUser": "true",
   "CheckUser": "true",
-  "UdpPort": "7300;7400",
+  "UdpPort": "7300;7400;7500;7600;7700",
   "Servers": [
     {
       "Name": "🇧🇷SERVIDOR JOGOS",
