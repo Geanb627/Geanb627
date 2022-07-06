@@ -1,6 +1,6 @@
 {
-  "Version": "1.5.8",
-  "ReleaseNotes": "atualização SSL IP+VIVO TESTE 4",
+  "Version": "1.5.9",
+  "ReleaseNotes": "atualização SSL IP+VIVO TESTE 5",
   "UrlUpdate": "https://raw.githubusercontent.com/Geanb627/Geanb627/main/Config",
   "Sms": "https://raw.githubusercontent.com/Geanb627/Geanb627/main/Sms",
   "EmailFeedback": "gean123cristhian@gmail.com",
@@ -100,7 +100,7 @@
       "FLAG": "vivo",
       "Payload": "GET / HTTP/1.1[crlf]Host: [crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
-      "TlsIP": "162.159.136.63",
+      "TlsIP": "172.67.165.43",
       "ProxyIP": "",
       "ProxyPort": "443",
       "Info": "Tlsws"
