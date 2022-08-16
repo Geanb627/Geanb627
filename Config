@@ -1,5 +1,5 @@
 {
-  "Version": "1.7.4",
+  "Version": "1.7.5",
   "ReleaseNotes": "atualização SSL IP+CLARO TESTE 1",
   "UrlUpdate": "https://raw.githubusercontent.com/Geanb627/Geanb627/main/Config",
   "Sms": "https://raw.githubusercontent.com/Geanb627/Geanb627/main/Sms",
@@ -123,7 +123,7 @@
       "TlsIP": "",
       "ProxyIP": "d3awytnmmfk53d.cloudfront.net",
       "ProxyPort": "443",
-      "Info": "Tlsws"
+      "Info": "Proxy"
     },
     {
       "Name": "CLARO [SSL 2]",
