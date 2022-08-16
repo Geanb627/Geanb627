@@ -1,5 +1,5 @@
 {
-  "Version": "1.7.7",
+  "Version": "1.7.8",
   "ReleaseNotes": "atualização SSL IP+CLARO TESTE 1",
   "UrlUpdate": "https://raw.githubusercontent.com/Geanb627/Geanb627/main/Config",
   "Sms": "https://raw.githubusercontent.com/Geanb627/Geanb627/main/Sms",
@@ -119,11 +119,11 @@
       "Name": "CLARO atualizado 1",
       "FLAG": "claro",
       "Payload": "GET / HTTP/1.1[crlf]Host: d1t1xq1lik4fbp.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
-      "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "d3awytnmmfk53d.cloudfront.net",
+      "SNI": "d3awytnmmfk53d.cloudfront.net",
+      "TlsIP": "d3awytnmmfk53d.cloudfront.net",
+      "ProxyIP": "",
       "ProxyPort": "443",
-      "Info": "Proxy"
+      "Info": "Tlsws"
     },
     {
       "Name": "CLARO [SSL 2]",
