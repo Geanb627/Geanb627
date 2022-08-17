@@ -1,5 +1,5 @@
 {
-  "Version": "1.7.8",
+  "Version": "1.7.9",
   "ReleaseNotes": "atualização SSL IP+CLARO TESTE 1",
   "UrlUpdate": "https://raw.githubusercontent.com/Geanb627/Geanb627/main/Config",
   "Sms": "https://raw.githubusercontent.com/Geanb627/Geanb627/main/Sms",
@@ -76,12 +76,12 @@
       "Info": "Tlsws"
    },
     {
-      "Name": "VIVO ATUALIZADO",
+      "Name": "VIVO ATUALIZADO 1",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: 2.infoproxplusbr.pt [crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: d1t1xq1lik4fbp.cloudfront.net [crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "recarga.vivo.com.br",
+      "ProxyIP": "live.vivo.com.br",
       "ProxyPort": "80",
       "Info": "Proxy"
    },
