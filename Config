@@ -1,6 +1,6 @@
 {
-  "Version": "1.8.1",
-  "ReleaseNotes": "atualização SSL IP+CLARO+ VIVO Proxy funcional + TIM tls   ",
+  "Version": "1.8.2",
+  "ReleaseNotes": "atualização do servidor de redes sociais VIVO, CLARO, TIM E OI  ",
   "UrlUpdate": "https://raw.githubusercontent.com/Geanb627/Geanb627/main/Config",
   "Sms": "https://raw.githubusercontent.com/Geanb627/Geanb627/main/Sms",
   "EmailFeedback": "gean123cristhian@gmail.com",
@@ -12,7 +12,7 @@
   "Servers": [
     {
       "Name": "🇧🇷SERVIDOR JOGOS",
-      "TYPE": "free",
+      "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "premi.infoproxplusbr.pt",
       "CheckUser": "http://191.252.120.30:8486/checkUser",
@@ -22,7 +22,7 @@
       "PASS": ""
     },
     {
-      "Name": "🇧🇷BRASIL NORMAL",
+      "Name": "🇧🇷BRASIL REDES SOCIAIS",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "tes.netsshonline.pt",
@@ -46,7 +46,7 @@
       "Info": "Tlsws"
    },
     {
-      "Name": "VIVO ATUALIZADO 1",
+      "Name": "VIVO ATUALIZADO 1 servidor de jogos",
       "FLAG": "vivo",
       "Payload": "GET / HTTP/1.1[crlf]Host: d1t1xq1lik4fbp.cloudfront.net [crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
@@ -55,10 +55,30 @@
       "ProxyPort": "80",
       "Info": "Proxy"
    },
+       {
+      "Name": "VIVO ATUALIZADO 2 servidor redes sociais ",
+      "FLAG": "vivo",
+      "Payload": "GET / HTTP/1.1[crlf]Host: d3a8myyiyxfz5p.cloudfront.net [crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "live.vivo.com.br",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+   },
     {
-      "Name": "CLARO atualizado 1",
+      "Name": "CLARO atualizado 1 servidor de jogos",
       "FLAG": "claro",
       "Payload": "GET / HTTP/1.1[crlf]Host: d1t1xq1lik4fbp.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "SNI": "d3awytnmmfk53d.cloudfront.net",
+      "TlsIP": "d3awytnmmfk53d.cloudfront.net",
+      "ProxyIP": "",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+    },
+       {
+      "Name": "CLARO atualizado 2 servidor de redes sociais",
+      "FLAG": "claro",
+      "Payload": "GET / HTTP/1.1[crlf]Host: d3a8myyiyxfz5p.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "d3awytnmmfk53d.cloudfront.net",
       "TlsIP": "d3awytnmmfk53d.cloudfront.net",
       "ProxyIP": "",
