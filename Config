@@ -1,5 +1,5 @@
 {
-  "Version": "1.8.3",
+  "Version": "1.8.5",
   "ReleaseNotes": "atualização do servidor de redes sociais VIVO, CLARO, TIM E OI  ",
   "UrlUpdate": "https://raw.githubusercontent.com/Geanb627/Geanb627/main/Config",
   "Sms": "https://raw.githubusercontent.com/Geanb627/Geanb627/main/Sms",
@@ -69,8 +69,8 @@
       "Name": "CLARO atualizado 1 servidor de jogos",
       "FLAG": "claro",
       "Payload": "GET / HTTP/1.1[crlf]Host: d1t1xq1lik4fbp.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
-      "SNI": "dnnsjdj5swfc3.cloudfront.net",
-      "TlsIP": "dnnsjdj5swfc3.cloudfront.net",
+      "SNI": "d2lw319xdy6x9h.cloudfront.net",
+      "TlsIP": "d2lw319xdy6x9h.cloudfront.net",
       "ProxyIP": "",
       "ProxyPort": "443",
       "Info": "Tlsws"
@@ -79,8 +79,8 @@
       "Name": "CLARO atualizado 2 servidor de redes sociais",
       "FLAG": "claro",
       "Payload": "GET / HTTP/1.1[crlf]Host: d3a8myyiyxfz5p.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
-      "SNI": "dnnsjdj5swfc3.cloudfront.net",
-      "TlsIP": "dnnsjdj5swfc3.cloudfront.net",
+      "SNI": "d2lw319xdy6x9h.cloudfront.net",
+      "TlsIP": "d2lw319xdy6x9h.cloudfront.net",
       "ProxyIP": "",
       "ProxyPort": "443",
       "Info": "Tlsws"
