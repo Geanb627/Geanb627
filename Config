@@ -1,5 +1,5 @@
 {
-  "Version": "1.8.5",
+  "Version": "1.8.7",
   "ReleaseNotes": "atualização do servidor de redes sociais VIVO, CLARO, TIM E OI  ",
   "UrlUpdate": "https://raw.githubusercontent.com/Geanb627/Geanb627/main/Config",
   "Sms": "https://raw.githubusercontent.com/Geanb627/Geanb627/main/Sms",
@@ -51,7 +51,7 @@
       "Payload": "GET / HTTP/1.1[crlf]Host: d1t1xq1lik4fbp.cloudfront.net [crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "live.vivo.com.br",
+      "ProxyIP": "108.139.182.110",
       "ProxyPort": "80",
       "Info": "Proxy"
    },
@@ -61,7 +61,7 @@
       "Payload": "GET / HTTP/1.1[crlf]Host: d3a8myyiyxfz5p.cloudfront.net [crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "live.vivo.com.br",
+      "ProxyIP": "108.139.182.110",
       "ProxyPort": "80",
       "Info": "Proxy"
    },
