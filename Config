@@ -1,5 +1,5 @@
 {
-  "Version": "1.9.1",
+  "Version": "1.9.3",
   "ReleaseNotes": "atualização do servidor de redes sociais VIVO, CLARO, TIM E OI  ",
   "UrlUpdate": "https://raw.githubusercontent.com/Geanb627/Geanb627/main/Config",
   "Sms": "https://raw.githubusercontent.com/Geanb627/Geanb627/main/Sms",
@@ -37,10 +37,10 @@
     {
       "Name": "VIVO ATUALIZADO 1 servidor de jogos",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: dzmhkccs0b542.cloudfront.net [crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: [crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "108.139.182.110",
+      "ProxyIP": "104.18.6.80",
       "ProxyPort": "80",
       "Info": "Proxy"
    },
