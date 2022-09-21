@@ -1,5 +1,5 @@
 {
-  "Version": "2.0.1",
+  "Version": "2.0.3",
   "ReleaseNotes": "atualização do servidor  VIVO, CLARO, TIM E OI  ",
   "UrlUpdate": "https://raw.githubusercontent.com/Geanb627/Geanb627/main/Config",
   "Sms": "https://raw.githubusercontent.com/Geanb627/Geanb627/main/Sms",
@@ -45,15 +45,15 @@
       "Info": "Proxy"
    },
     {
-      Name": "CLARO",
-      "FLAG": "claro",
-      "Payload": "GET http://minhaclaroresidencial.claro.com.br HTTP/1.0[crlf]Host: http://minhaclaroresidencial.claro.com.br[crlf]Connection: keep-alive[crlf]User-Agent: Upgrade [crlf][crlf]",
-      "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "premi.infobrproxplusvp.website",
-      "ProxyPort": "80",
-      "Info": "Proxy"
-   },
+      "Name": "CLARO atualizado 1 servidor de jogos",
+      "FLAG": "claro",
+      "Payload": "GET http://minhaclaroresidencial.claro.com.br HTTP/1.0[crlf]Host: premi.infobrproxplusvp.websitehttp://minhaclaroresidencial.claro.com.br[crlf]Connection: keep-alive[crlf]User-Agent: Upgrade [crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "premi.infobrproxplusvp.website",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
     {
       "Name": "💛OI FAST",
       "FLAG": "oi",
