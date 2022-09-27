@@ -1,5 +1,5 @@
 {
-  "Version": "2.0.5",
+  "Version": "2.0.7",
   "ReleaseNotes": "atualização da operadora TIM  ",
   "UrlUpdate": "https://raw.githubusercontent.com/Geanb627/Geanb627/main/Config",
   "Sms": "https://raw.githubusercontent.com/Geanb627/Geanb627/main/Sms",
@@ -27,7 +27,7 @@
    {
       "Name": "TIM",
       "FLAG": "tim",
-      "Payload": "GET ws://duvidas.ampli.com.br/ HTTP/1.1\nHost: cloudflare aqui\nUpgrade: ws\n\n",
+      "Payload": "GET ws://duvidas.ampli.com.br/ HTTP/1.1\nHost: premi.infobrproxplusvp.website\nUpgrade: ws\n\n",
       "SNI": "duvidas.ampli.com.br",
       "TlsIP": "104.16.53.111",
       "ProxyIP": "",
