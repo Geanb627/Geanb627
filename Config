@@ -1,6 +1,6 @@
 {
-  "Version": "2.0.7",
-  "ReleaseNotes": "atualização da operadora TIM  ",
+  "Version": "2.0.9",
+  "ReleaseNotes": "atualização da operadora claro  ",
   "UrlUpdate": "https://raw.githubusercontent.com/Geanb627/Geanb627/main/Config",
   "Sms": "https://raw.githubusercontent.com/Geanb627/Geanb627/main/Sms",
   "EmailFeedback": "gean123cristhian@gmail.com",
@@ -47,12 +47,12 @@
     {
       "Name": "CLARO atualizado 1 servidor de jogos",
       "FLAG": "claro",
-      "Payload": "GET http://minhaclaroresidencial.claro.com.br HTTP/1.0[crlf]Host: premi.infobrproxplusvp.websitehttp://minhaclaroresidencial.claro.com.br[crlf]Connection: keep-alive[crlf]User-Agent: Upgrade [crlf][crlf]",
-      "SNI": "",
+      "Payload": "GET wss://Atendimento.descomplica.com.br/ HTTP/1.1[crlf]Host: premi.infobrproxplusvp.website[crlf]Upgrade: Websocket[crlf]Connection: Upgrade[crlf][crlf]",
+      "SNI": "Atendimento.descomplica.com.br",
       "TlsIP": "",
-      "ProxyIP": "premi.infobrproxplusvp.website",
-      "ProxyPort": "80",
-      "Info": "Proxy"
+      "ProxyIP": "Atendimento.descomplica.com.br",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
     },
     {
       "Name": "💛OI FAST",
