@@ -1,5 +1,5 @@
 {
-  "Version": "2.0.9",
+  "Version": "2.1.1",
   "ReleaseNotes": "atualização da operadora claro  ",
   "UrlUpdate": "https://raw.githubusercontent.com/Geanb627/Geanb627/main/Config",
   "Sms": "https://raw.githubusercontent.com/Geanb627/Geanb627/main/Sms",
@@ -49,8 +49,8 @@
       "FLAG": "claro",
       "Payload": "GET wss://Atendimento.descomplica.com.br/ HTTP/1.1[crlf]Host: premi.infobrproxplusvp.website[crlf]Upgrade: Websocket[crlf]Connection: Upgrade[crlf][crlf]",
       "SNI": "Atendimento.descomplica.com.br",
-      "TlsIP": "",
-      "ProxyIP": "Atendimento.descomplica.com.br",
+      "TlsIP": "Atendimento.descomplica.com.br",
+      "ProxyIP": "",
       "ProxyPort": "443",
       "Info": "Tlsws"
     },
