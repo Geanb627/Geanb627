@@ -1,6 +1,6 @@
 {
-  "Version": "2.1.3",
-  "ReleaseNotes": "atualização da operadora claro  ",
+  "Version": "2.1.6",
+  "ReleaseNotes": "ATUALIZAÇÃO VIVO ALGUNS DDDS ",
   "UrlUpdate": "https://raw.githubusercontent.com/Geanb627/Geanb627/main/Config",
   "Sms": "https://raw.githubusercontent.com/Geanb627/Geanb627/main/Sms",
   "EmailFeedback": "gean123cristhian@gmail.com",
@@ -35,7 +35,17 @@
       "Info": "Tlsws"
    },
     {
-      "Name": "VIVO ATUALIZADO 1 servidor de jogos",
+      "Name": "VIVO TESTE 1",
+      "FLAG": "vivo",
+      "Payload": "GET wss://Atendimento.descomplica.com.br:443/ HTTP/1.1[crlf]Host: premi.infobrproxplusvp.website[crlf]Origin: https://www.google.com, http://www.google.com[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive, Upgrade[crlf][crlf]",
+      "SNI": "Atendimento.descomplica.com.br",
+      "TlsIP": "Atendimento.descomplica.com.br",
+      "ProxyIP": "",
+      "ProxyPort": "443",
+      "Info": "Tlsw"
+   },
+    {
+      "Name": "VIVO MODO AVIÃO ALGUNS DDDS",
       "FLAG": "vivo",
       "Payload": "GET / HTTP/1.1[crlf]Host: premi.infobrproxplusvp.website[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
