@@ -1,5 +1,5 @@
 {
-  "Version": "2.1.6",
+  "Version": "2.1.8",
   "ReleaseNotes": "ATUALIZAÇÃO VIVO ALGUNS DDDS ",
   "UrlUpdate": "https://raw.githubusercontent.com/Geanb627/Geanb627/main/Config",
   "Sms": "https://raw.githubusercontent.com/Geanb627/Geanb627/main/Sms",
@@ -51,7 +51,7 @@
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "104.16.53.111",
-      "ProxyPort": "80",
+      "ProxyPort": "8080",
       "Info": "Proxy"
    },
     {
