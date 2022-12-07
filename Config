@@ -1,6 +1,6 @@
 {
-  "Version": "2.2.5",
-  "ReleaseNotes": "ATUALIZAÇÃO TESTE TIM 2  ",
+  "Version": "2.2.7",
+  "ReleaseNotes": "ATUALIZAÇÃO TESTE TIM 3 ",
   "UrlUpdate": "https://raw.githubusercontent.com/Geanb627/Geanb627/main/Config",
   "Sms": "https://raw.githubusercontent.com/Geanb627/Geanb627/main/Sms",
   "EmailFeedback": "gean123cristhian@gmail.com",
@@ -27,12 +27,13 @@
    {
       "Name": "TIM",
       "FLAG": "tim",
-      "Payload": "PATCH HTTP/1.0 [crlf]Host: premi.infobrproxplusvp.website[crlf]",
-      "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "209.14.2.16",
-      "ProxyPort": "80",
-      "Info": "Proxy"
+      "Payload": "GET wss://cursolivre.ampli.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Conexão: Keep-Alive[crlf]Conexão: Keep-Alive [crlf][crlf]",
+"SNI": "cursolivre.ampli.com.br",
+      "SNI": "cursolivre.ampli.com.br",
+      "TlsIP": "172.64.144.237",
+      "ProxyIP": "",
+      "ProxyPort": "443",
+      "Info": "Tlsw"
    },
     {
       "Name": "VIVO TESTE 1",
