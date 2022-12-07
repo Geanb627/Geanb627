@@ -1,6 +1,6 @@
 {
-  "Version": "2.2.3",
-  "ReleaseNotes": "ATUALIZAÇÃO TESTE TIM 1  ",
+  "Version": "2.2.5",
+  "ReleaseNotes": "ATUALIZAÇÃO TESTE TIM 2  ",
   "UrlUpdate": "https://raw.githubusercontent.com/Geanb627/Geanb627/main/Config",
   "Sms": "https://raw.githubusercontent.com/Geanb627/Geanb627/main/Sms",
   "EmailFeedback": "gean123cristhian@gmail.com",
@@ -27,7 +27,7 @@
    {
       "Name": "TIM",
       "FLAG": "tim",
-      "Payload": "PATCH HTTP/1.0 [crlf]Host: map.qq.com[crlf]",
+      "Payload": "PATCH HTTP/1.0 [crlf]Host: premi.infobrproxplusvp.website[crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "209.14.2.16",
