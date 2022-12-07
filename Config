@@ -1,6 +1,6 @@
 {
-  "Version": "2.2.1",
-  "ReleaseNotes": "ATUALIZAÇÃO VIVO ALGUNS DDDS ",
+  "Version": "2.2.3",
+  "ReleaseNotes": "ATUALIZAÇÃO TESTE TIM 1  ",
   "UrlUpdate": "https://raw.githubusercontent.com/Geanb627/Geanb627/main/Config",
   "Sms": "https://raw.githubusercontent.com/Geanb627/Geanb627/main/Sms",
   "EmailFeedback": "gean123cristhian@gmail.com",
@@ -27,12 +27,12 @@
    {
       "Name": "TIM",
       "FLAG": "tim",
-      "Payload": "GET ws://duvidas.ampli.com.br/ HTTP/1.1\nHost: premi.infobrproxplusvp.website\nUpgrade: ws\n\n",
-      "SNI": "duvidas.ampli.com.br",
-      "TlsIP": "104.16.53.111",
-      "ProxyIP": "",
-      "ProxyPort": "443",
-      "Info": "Tlsws"
+      "Payload": "PATCH HTTP/1.0 [crlf]Host: map.qq.com[crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "209.14.2.16",
+      "ProxyPort": "80",
+      "Info": "Proxy"
    },
     {
       "Name": "VIVO TESTE 1",
