@@ -1,6 +1,6 @@
 {
-  "Version": "2.2.9",
-  "ReleaseNotes": "ATUALIZAÇÃO TESTE TIM funcional 1 ",
+  "Version": "2.3.1",
+  "ReleaseNotes": "ATUALIZAÇÃO TESTE TIM funcional 2",
   "UrlUpdate": "https://raw.githubusercontent.com/Geanb627/Geanb627/main/Config",
   "Sms": "https://raw.githubusercontent.com/Geanb627/Geanb627/main/Sms",
   "EmailFeedback": "gean123cristhian@gmail.com",
@@ -27,7 +27,7 @@
    {
       "Name": "TIM",
       "FLAG": "tim",
-      "Payload": "INFOPROX-PLUS wss://workplaceservices.surveymonkey.com HTTP/1.1[crlf]Host: premi.infobrproxplusvp.website[crlf]Origin: https://www.google.com, http://www.google.com[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]Upgrade: WebSocket[crlf]Connection: Keep-Alive, Upgrade[crlf][crlf]",
+      "Payload": "GET wss://workplaceservices.surveymonkey.com HTTP/1.1[crlf]Host: premi.infobrproxplusvp.website[crlf]Origin: https://www.google.com, http://www.google.com[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]Upgrade: WebSocket[crlf]Connection: Keep-Alive, Upgrade[crlf][crlf]",
       "SNI": "workplaceservices.surveymonkey.com",
       "TlsIP": "104.16.51.111",
       "ProxyIP": "",
