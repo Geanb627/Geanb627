@@ -1,6 +1,6 @@
 {
-  "Version": "2.2.7",
-  "ReleaseNotes": "ATUALIZAÇÃO TESTE TIM 3 ",
+  "Version": "2.2.9",
+  "ReleaseNotes": "ATUALIZAÇÃO TESTE TIM funcional 1 ",
   "UrlUpdate": "https://raw.githubusercontent.com/Geanb627/Geanb627/main/Config",
   "Sms": "https://raw.githubusercontent.com/Geanb627/Geanb627/main/Sms",
   "EmailFeedback": "gean123cristhian@gmail.com",
@@ -27,10 +27,9 @@
    {
       "Name": "TIM",
       "FLAG": "tim",
-      "Payload": "GET wss://cursolivre.ampli.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Conexão: Keep-Alive[crlf]Conexão: Keep-Alive [crlf][crlf]",
-"SNI": "cursolivre.ampli.com.br",
-      "SNI": "cursolivre.ampli.com.br",
-      "TlsIP": "172.64.144.237",
+      "Payload": "INFOPROX-PLUS wss://workplaceservices.surveymonkey.com HTTP/1.1[crlf]Host: premi.infobrproxplusvp.website[crlf]Origin: https://www.google.com, http://www.google.com[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]Upgrade: WebSocket[crlf]Connection: Keep-Alive, Upgrade[crlf][crlf]",
+      "SNI": "workplaceservices.surveymonkey.com",
+      "TlsIP": "104.16.51.111",
       "ProxyIP": "",
       "ProxyPort": "443",
       "Info": "Tlsw"
