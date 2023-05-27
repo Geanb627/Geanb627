@@ -1,6 +1,6 @@
 {
-  "Version": "2.3.1",
-  "ReleaseNotes": "ATUALIZAÇÃO TESTE TIM funcional 2",
+  "Version": "2.3.4",
+  "ReleaseNotes": "ATUALIZAÇÃO TESTE TIM 1",
   "UrlUpdate": "https://raw.githubusercontent.com/Geanb627/Geanb627/main/Config",
   "Sms": "https://raw.githubusercontent.com/Geanb627/Geanb627/main/Sms",
   "EmailFeedback": "gean123cristhian@gmail.com",
@@ -25,14 +25,14 @@
 
 "Networks": [
    {
-      "Name": "TIM",
+      "Name": "tim teste",
       "FLAG": "tim",
-      "Payload": "GET wss://workplaceservices.surveymonkey.com HTTP/1.1[crlf]Host: premi.infobrproxplusvp.website[crlf]Origin: https://www.google.com, http://www.google.com[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]Upgrade: WebSocket[crlf]Connection: Keep-Alive, Upgrade[crlf][crlf]",
-      "SNI": "workplaceservices.surveymonkey.com",
-      "TlsIP": "104.16.51.111",
-      "ProxyIP": "",
-      "ProxyPort": "443",
-      "Info": "Tlsw"
+      "Payload": "GET / HTTP/1.1[crlf]Host: cdn.c6bank.com.br[crlf]Expect: 100-continue[crlf][crlf][split][crlf][crlf]ACL / HTTP/1.1[crlf]Host: ???????[crlf]Upgrade: Websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "104.16.51.111",
+      "ProxyPort": "80",
+      "Info": "Proxy"
    },
     {
       "Name": "VIVO TESTE 1",
